@@ -1,0 +1,39 @@
+{
+  "person": {
+    "first_name": "Bernhard",
+    "last_name": "Maeser",
+    "location": "Vienna / Austria",
+    "tags": ["webdevelopment","mobile-development", "system-administration"],
+    "available_for_hire": true,
+    "married": true,
+    "child_count": 1
+  },
+  "toolbox": {
+    "frontend": ["HTML5", "CSS3", "JavScript", "jQuery","jQueryMobile", "Backbone.js"],
+    "backend": {
+      "python": ["Django", "Flask" ],
+      "javascript": ["Node.js", "express", "connect"]
+    },
+    "database": ["PostgresSQL", "mongoDB", "CouchDB", "Redis"],
+    "os": ["ubuntu", "debian", "osx"]
+  },
+  "social": {
+    "twitter": "https://twitter.com/#!/bmaeser",
+    "facebook": "https://www.facebook.com/bernhard.maeser",
+    "github": "https://github.com/bmaeser",
+    "xing": "https://www.xing.com/profile/Bernhard_Maeser",
+    "linkedin": "http://www.linkedin.com/in/bmaeser"    
+  },
+  "contact": {
+    "email": "bernhard.maeser@scale-it.at",
+    "mobile": "0043 664 143 47 04",
+    "skype": "bernhard,maeser",
+    "postal_address": {
+      "street": "Gumpendorfer Strasse 56/6",
+      "city": "Wien",
+      "zipcode": "1060",
+      "country": "Oesterreich"
+      
+    }
+  }
+}
